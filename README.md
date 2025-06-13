@@ -43,8 +43,4 @@ Double DQN further improves stability and learning by decoupling action selectio
 - `torch`
 - `tqdm`
 
-To install the requirements:
-
-```bash
-pip install gymnasium[box2d] torch numpy matplotlib tqdm
-```
+To install the requirements execute these colab files in a new colab project (Clean and OS independant), or install them directly by executing the files (Not recommended for environment libraries clash).
